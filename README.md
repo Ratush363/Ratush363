@@ -1,15 +1,22 @@
-# Hello, World! 👋  <h1 align="left">My name is Ratush Pandit</h1>
+# Hello, World! 👋  
+<h1 align="center">My name is Ratush Pandit</h1>
 <p align="center">Transforming Ideas into Code.</p>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ratush363&label=Profile%20views&color=0e75b6&style=flat" alt="ratush363" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ratush363" alt="ratush363" /></a> </p>
 
+
 - 🌱 I’m currently doing **B.Tech CSE**
+
 - 🔭 I’m interested mostly into Robotics, AI & ML
+  
 - 👯 I’m looking to collaborate on anything
+  
 - 👨‍💻 I'm currently expanding my skills
+  
 - ⚡ I'm passionate about building real-world projects that provide value
+  
 - 📫 You can contact me at **ratush363@gmail.com**
 
 
@@ -27,9 +34,9 @@
 
 <p>&nbsp;<img align="left" src="https://github-readme-stats.vercel.app/api?username=ratush363&show_icons=true&locale=en" alt="ratush363" /></p>
 
-<p><img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=ratush363&" alt="ratush363" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ratush363&" alt="ratush363" /></p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=ratush363&show_icons=true&locale=en&layout=compact" alt="ratush363" /></p>
+<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=ratush363&show_icons=true&locale=en&layout=compact" alt="ratush363" /></p>
 
 <h3 align="center">Thank you for visiting my profile. Enjoy coding! 😊</h3>
 
