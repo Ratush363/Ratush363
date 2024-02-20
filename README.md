@@ -27,7 +27,7 @@
 <p align="left">Feel free to reach out to me!</p>
 <p align="left">
 <a href="https://twitter.com/ratush363" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="ratush363" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/ratush pandit" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ratush pandit" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/ratush-pandit-328555276" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ratush pandit" height="30" width="40" /></a>
 <a href="https://instagram.com/smarty_36_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="smarty_36_" height="30" width="40" /></a>
 <a href="https://discord.gg/ratush_36" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="ratush_36" height="30" width="40" /></a>
 </p>
