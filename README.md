@@ -13,7 +13,7 @@ src="https://img.shields.io/github/followers/Ratush363?logo=github&style=for-the
 
 - 🌱 I’m currently doing **B.Tech CSE**
 
-- 🔭 I’m interested mostly into Robotics, AI & ML
+- 🔭 I’m interested mostly into Robotics and Web Development
   
 - 👯 I’m looking to collaborate on anything
   
